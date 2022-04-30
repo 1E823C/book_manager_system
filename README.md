@@ -1,2 +1,2 @@
 # lemon_bookstore
-柠檬书城项目
+图书管理系统
